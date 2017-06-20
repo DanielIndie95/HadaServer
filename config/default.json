@@ -1,0 +1,13 @@
+{
+    // Customer module configs 
+    "DbConnection": {
+        "dbConfig": {
+            "connectionString": "mssql://username:password@localhost/database",
+            "host": "hada-db.database.windows.net",
+            "port": 1433,
+            "dbName": "hada-db",
+            "user": "UserTeam54",
+            "password": "My!hack@2017-54"
+        }
+    }
+}
